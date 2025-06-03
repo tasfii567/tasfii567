@@ -1,5 +1,4 @@
-# Hi there, I'm Tasfia! 👋
-
+# Hi there, I'm Tasfia! 
 **Full Stack Developer & Graphics Designer**
 
 Turning ideas into code and art. From sleek web apps to intelligent robots, I blend technology and creativity to build standout digital solutions.
