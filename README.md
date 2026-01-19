@@ -1,12 +1,12 @@
 # Hi there! I'm Tasfia
-A passionate **Web Developer** and **Computer Science Student** with a love for creating innovative and impactful projects. 🚀
+A **Computer Science Student** with a love for creating innovative and impactful projects. 🚀
 Turning ideas into code and art. From sleek web apps to intelligent robots, I blend technology and creativity to build standout digital solutions.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 I'm a 4th-year **Computer Science & Engineering** student with a deep passion for **Web Development** and emerging software technologies. 
+- 🎓 I'm a **Computer Science & Engineering** graduate student with a deep passion for creating and emerging software technologies. 
 - 🖥️ Skilled in Python, C++, JavaScript, Node.js, MongoDB, Oracle, and machine learning
 - 🎨 Experienced in graphics design—mixing code and creativity for unique results
 - 🌍 Tech enthusiast who loves to explore, travel, and read novels in my free time
