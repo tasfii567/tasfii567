@@ -49,13 +49,13 @@ I'm a Computer Science & Engineering graduate with an interest in AI, software d
 
 ---
 
-## GitHub Stats
+**## GitHub Stats
 
 ![Tasfia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasfii567&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasfii567&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tasfii567&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tasfii567&theme=tokyonight&hide_border=true)**
 
 ##  Connect with Me
 
